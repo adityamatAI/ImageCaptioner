@@ -1,0 +1,12 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore generated model and data files (optional but good practice)
+# You might want to keep these if they are small and essential for running
+# but typically large data/model files are not stored in Git.
+models/
+dataset/
