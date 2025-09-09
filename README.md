@@ -26,7 +26,6 @@ The process is as follows:
 4.  The LSTM predicts the second word.
 5.  This process repeats until the model predicts a special "endseq" token or reaches the maximum caption length.
 
-![Model Architecture Diagram (Conceptual)](https://i.imgur.com/2v3gKk3.png)
 
 ## 3. Features
 
