@@ -1,5 +1,3 @@
-# run_captioner.py (Corrected by rebuilding model and loading weights)
-
 import os
 import pickle
 import numpy as np
